@@ -1,0 +1,12 @@
+C:\Users\aryan\Desktop\maths\maths\obj\Debug\maths.vbprojAssemblyReference.cache
+C:\Users\aryan\Desktop\maths\maths\obj\Debug\maths.Form1.resources
+C:\Users\aryan\Desktop\maths\maths\obj\Debug\maths.Resources.resources
+C:\Users\aryan\Desktop\maths\maths\obj\Debug\maths.vbproj.GenerateResource.cache
+C:\Users\aryan\Desktop\maths\maths\obj\Debug\maths.vbproj.CoreCompileInputs.cache
+C:\Users\aryan\Desktop\maths\maths\bin\Debug\maths.exe.config
+C:\Users\aryan\Desktop\maths\maths\bin\Debug\maths.exe
+C:\Users\aryan\Desktop\maths\maths\bin\Debug\maths.pdb
+C:\Users\aryan\Desktop\maths\maths\bin\Debug\maths.xml
+C:\Users\aryan\Desktop\maths\maths\obj\Debug\maths.exe
+C:\Users\aryan\Desktop\maths\maths\obj\Debug\maths.xml
+C:\Users\aryan\Desktop\maths\maths\obj\Debug\maths.pdb
